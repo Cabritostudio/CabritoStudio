@@ -1,9 +1,9 @@
 # Rafael Brito
 
-**`GameDev`**
+**`🎮GameDev`**
 
 
-### Conhecimentos
+## 📕Conhecimentos
 
 <img 
     align="left" 
@@ -63,8 +63,33 @@
     src="https://midias.inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1-1024x573.png" 
 />
 
-
-
-
 <br/>
 <br/>
+
+
+## 😀Resumo
+
+<a style="font-size: 15px ; color:white ; " >
+Universitário apaixonado por programação, exerço meus estudos desde 2022 na área de GameDev  e me esforço desde o primeiro dia nos estudos, hoje em dia possuo uma bagatela de linguagens e conhecimento boa para o mercado e espero contribuir fielmente nas empresas que confiarem no meu trabalho.
+
+Gosto de sempre ter foco e organização nos meus projetos e sempre com orientação do meu supervisor para garantir a entrega do produto devotadamente para o cliente.
+</a>
+
+## 👨‍🎓Formação
+
+<a style="font-size: 15px ; color:white ;  " >
+
+ * Instituto Federal do Espirito Santo - Graduado em Eletrotécnica
+
+ * Universidade Vila Velha - Cursando Ciências da Computação
+
+</a>
+
+## 🛠Trabalhos
+<a href="https://cabritostudio.itch.io/calliope" target="_blank" style="font-size: 20px; font-weight: bold; color: 16e3fb; -webkit-text-stroke: 1px black; text-decoration: none;">
+    .Calliope
+</a>
+
+<a href="https://sneks.gg" target="_blank" style="font-size: 20px; font-weight: bold; color: blu16e3fbe; -webkit-text-stroke: 1px black; text-decoration: none;">
+    .SoulGate
+</a>
