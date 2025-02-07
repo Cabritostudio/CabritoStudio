@@ -130,8 +130,9 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
 
 ### SoulGate
 
-<img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/Trailer_SoulGate.gif"></img>
+<img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/SoulGate.gif"></img>
 </br>
+
 
 
 
