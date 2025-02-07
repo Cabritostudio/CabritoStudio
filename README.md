@@ -111,6 +111,8 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
     src="https://drive.google.com/uc?export=view&id=1emW3Je3orkm0S1LLEptDZVqUmNJkq7DW"
 />
 ### Shader GLSL
-<img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/IslandShader.gif" >
+<img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/IslandShader.gif" ></img>
 
-</img>
+<img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/HexProof.gif"></img>
+
+
