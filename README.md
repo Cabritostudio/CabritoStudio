@@ -115,7 +115,7 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
 
 <img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/HexProof.gif"></img>
 
-<img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/Trailer_SoulGate.gif"></img>
+<video src="https://github.com/Cabritostudio/CabritoStudio/blob/main/Trailer_SoulGate.mp4"></video>
 
 <img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/SoulGate.gif"></img>
 
