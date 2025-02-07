@@ -109,7 +109,7 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
     title="1"
     src="https://drive.google.com/uc?export=view&id=1emW3Je3orkm0S1LLEptDZVqUmNJkq7DW"
 />
-<video>
+<video width="640" height="360" controls>
     <source src="https://drive.google.com/uc?export=download&id=19AqBoNE-IUHRW5KKigSyug6wrOlN15gp" type="video/webm">
 </video>
 
