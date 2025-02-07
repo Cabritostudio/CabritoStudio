@@ -97,6 +97,7 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
 </a>
 
 ## Referências
+### Calliope
 <img 
     align="left" 
     alt="GML" 
@@ -109,5 +110,7 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
     title="1"
     src="https://drive.google.com/uc?export=view&id=1emW3Je3orkm0S1LLEptDZVqUmNJkq7DW"
 />
+### Shader GLSL
+<img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/IslandShader.gif" >
 
-<iframe src="https://drive.google.com/file/d/19AqBoNE-IUHRW5KKigSyug6wrOlN15gp/preview" width="640" height="360" allowfullscreen></iframe>
+</img>
