@@ -110,7 +110,7 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
     src="https://drive.google.com/uc?export=view&id=1emW3Je3orkm0S1LLEptDZVqUmNJkq7DW"
 />
 <video>
-    <source src="https://drive.google.com/uc?export=download&id=19AqBoNE-IUHRW5KKigSyug6wrOlN15gp">
+    <source src="https://drive.google.com/uc?export=download&id=19AqBoNE-IUHRW5KKigSyug6wrOlN15gp" type="video/webm">
 </video>
 
 
