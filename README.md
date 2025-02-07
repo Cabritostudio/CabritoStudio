@@ -96,12 +96,14 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
     .SoulGate
 </a>
 
+
 ## Referências
+
 ### Calliope
 <img 
     align="left" 
-    alt="GML" 
-    title="GML"
+    alt="1" 
+    title="1"
     src="https://drive.google.com/uc?export=view&id=1d6nzXACqgeaFTf1qWmmcQKCj_U4zQycy" 
 />
 <img 
@@ -110,10 +112,24 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
     title="1"
     src="https://drive.google.com/uc?export=view&id=1emW3Je3orkm0S1LLEptDZVqUmNJkq7DW"
 />
+<img 
+    align="left" 
+    alt="1" 
+    title="1"
+    src="https://drive.google.com/uc?export=view&id=1vutgEIw0NfCLdImI6jKBYVMiHbGcfM8p"
+/>
+
+</br>
 ### Shader GLSL
 <img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/IslandShader.gif"></img>
 
 <img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/HexProof.gif"></img>
+
+</br>
+### SoulGate
+
+<img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/Trailer_SoulGate.gif"></img>
+
 
 ### SoulGate
 
