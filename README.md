@@ -95,3 +95,14 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
 <a href="https://sneks.gg" target="_blank" style="font-size: 20px; font-weight: bold; color: blu16e3fbe; -webkit-text-stroke: 1px black; text-decoration: none;">
     .SoulGate
 </a>
+
+## Referências
+<img 
+    align="left" 
+    alt="GML" 
+    title="GML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://drive.google.com/uc?export=view&id=1d6nzXACqgeaFTf1qWmmcQKCj_U4zQycy" 
+/>
+
