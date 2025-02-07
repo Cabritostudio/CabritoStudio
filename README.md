@@ -97,6 +97,7 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
 </a>
 
 
+
 ## Referências
 
 ### Calliope
@@ -118,22 +119,21 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
     title="1"
     src="https://drive.google.com/uc?export=view&id=1vutgEIw0NfCLdImI6jKBYVMiHbGcfM8p"
 />
-
 </br>
+
 ### Shader GLSL
+
 <img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/IslandShader.gif"></img>
 
 <img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/HexProof.gif"></img>
-
 </br>
+
 ### SoulGate
 
 <img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/Trailer_SoulGate.gif"></img>
+</br>
 
 
-### SoulGate
-
-<img src="https://github.com/Cabritostudio/CabritoStudio/blob/main/SoulGate.gif"></img>
 
 
 
