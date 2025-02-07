@@ -103,4 +103,10 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
     title="GML"
     src="https://drive.google.com/uc?export=view&id=1d6nzXACqgeaFTf1qWmmcQKCj_U4zQycy" 
 />
+<img 
+    align="left" 
+    alt="1" 
+    title="1"
+    src="https://drive.google.com/uc?export=view&id=1emW3Je3orkm0S1LLEptDZVqUmNJkq7DW"
+/>
 
