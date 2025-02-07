@@ -112,5 +112,5 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
 <video
     src="https://drive.google.com/uc?export=view&id=19AqBoNE-IUHRW5KKigSyug6wrOlN15gp"
 >
-</>
+</video>
 
