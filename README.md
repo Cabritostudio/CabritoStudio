@@ -101,8 +101,8 @@ Gosto de sempre ter foco e organização nos meus projetos e sempre com orienta�
     align="left" 
     alt="GML" 
     title="GML"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="100px" 
+    style="padding-right: 100px;" 
     src="https://drive.google.com/uc?export=view&id=1d6nzXACqgeaFTf1qWmmcQKCj_U4zQycy" 
 />
 
